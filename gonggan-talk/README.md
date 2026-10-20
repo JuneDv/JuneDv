@@ -10,8 +10,6 @@
 - 관리자 앱: 사내 전용
 - 코드: 비공개
 
-<img width="1560" height="1163" alt="image" src="https://github.com/user-attachments/assets/5d8531c3-a42a-4a0c-8cb0-303a32f7b76d" />
-
 
 ## 1. 문제
 
@@ -33,7 +31,7 @@
 
 ## 3. 구조
 
-![전체 구조](docs/structure.png)
+<img width="1560" height="1163" alt="image" src="https://github.com/user-attachments/assets/5d8531c3-a42a-4a0c-8cb0-303a32f7b76d" />
 
 파란 선은 현장 데이터의 길(Jira → n8n → DB), 주황 선은 알림의 길(DB → 알림 함수 → 휴대폰).
 두 앱은 DB를 직접 읽고 쓰되, 권한 규칙(RLS)으로 건축주는 본인 현장만, 직원은 허용된 현장만 받습니다.
