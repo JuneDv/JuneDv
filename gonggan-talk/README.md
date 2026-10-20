@@ -40,9 +40,8 @@
 
 ### 건축주 앱
 
-| 접속 | 진행 현황 | 공간 Talk | 내 정보 |
-|---|---|---|---|
-| ![](docs/owner-login.png) | ![](docs/owner-card.png) | ![](docs/owner-talk.png) | ![](docs/owner-me.png) |
+<img width="840" height="884" alt="image" src="https://github.com/user-attachments/assets/ec50005c-b8da-45f5-a5a5-6d1b2031f96d" />
+
 
 - 8단계(계약 → 설계 → 인테리어·변경계약 → 중도금 → 제작 도면 → 공장 생산 → 상차·설치 → 잔금)는 Jira 상태와 수금율로 자동 판정
 - 단계 선택은 3D 링. 지난 단계는 실제 기록, 앞으로의 단계는 설명·기간·조건·"하실 일"만
