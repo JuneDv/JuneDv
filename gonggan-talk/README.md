@@ -10,7 +10,7 @@
 - 관리자 앱: 사내 전용
 - 코드: 비공개
 
-<img width="1734" height="750" alt="image" src="https://github.com/user-attachments/assets/e9269872-780f-42f1-8242-aaab4dc87cf8" />
+/home/user/github-docs/structure.png
 
 ## 1. 문제
 
