@@ -50,9 +50,8 @@
 
 ### 관리자 앱
 
-| 현장 목록 | 공간 Talk |
-|---|---|
-| ![](docs/admin-sites.png) | ![](docs/admin-talk.png) |
+<img width="2160" height="1290" alt="image" src="https://github.com/user-attachments/assets/927fba32-8e4c-49ff-afa8-254b16bc13e1" />
+
 
 - 현장 목록: 단계·BM 상태(프로세스 순)·수금율·상차일·담당, 최근 대화 순 정렬, 최근 대화 한 줄
 - 현장 상세: 건축주 초대 링크를 번호별로 만들어 안내문과 함께 복사(7일·기기 5대). 건축주 화면 미리보기
